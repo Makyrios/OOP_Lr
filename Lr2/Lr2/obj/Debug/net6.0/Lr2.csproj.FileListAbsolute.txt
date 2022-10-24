@@ -1,0 +1,15 @@
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.AssemblyReference.cache
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfoInputs.cache
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfo.cs
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.CoreCompileInputs.cache
+D:\КПІ\ООП\Lr2\Lr2\bin\Debug\net6.0\Lr2.exe
+D:\КПІ\ООП\Lr2\Lr2\bin\Debug\net6.0\Lr2.deps.json
+D:\КПІ\ООП\Lr2\Lr2\bin\Debug\net6.0\Lr2.runtimeconfig.json
+D:\КПІ\ООП\Lr2\Lr2\bin\Debug\net6.0\Lr2.dll
+D:\КПІ\ООП\Lr2\Lr2\bin\Debug\net6.0\Lr2.pdb
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.dll
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\refint\Lr2.dll
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.pdb
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\Lr2.genruntimeconfig.cache
+D:\КПІ\ООП\Lr2\Lr2\obj\Debug\net6.0\ref\Lr2.dll
