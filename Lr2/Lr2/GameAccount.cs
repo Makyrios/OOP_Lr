@@ -149,15 +149,6 @@ namespace Lr2
             bool isStreak = false;
             if (allGames.Count() >= StreakCount)
             {
-                // Check if last {streakCount} games were won
-                //for (int i = allGames.Count() - 1; i >= allGames.Count() - StreakCount; i--)
-                //{
-                //    if (allGames[i].GetPlayer1 != this || )
-                //    {
-                //         isStreak = false;
-                //    }
-                //}
-
                 // Check if last N not training games were won
                 for (int i = allGames.Count() - 1; i >= 0; i--)
                 {

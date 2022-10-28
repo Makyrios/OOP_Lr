@@ -4,8 +4,6 @@ public class Program
 {
     public static void Main()
     {
-        //GameAccount player1 = new GameAccount("Player1");
-        //GameAccount player2 = new GameAccount("Player2");
         BaseGameAccount player1 = new BaseGameAccount("Player1");
         BaseGameAccount player2 = new BaseGameAccount("Player2");
 
@@ -18,7 +16,7 @@ public class Program
         player1.WinGame(GameType.TrainingGame, player2);
         player2.LoseGame(GameType.StandartGame, player1, 70);
 
-        try 
+        try
         { 
             player1.LoseGame(GameType.StandartGame, player1, 20);
         }
